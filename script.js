@@ -32,7 +32,7 @@ const jokes = [
     "What kind of fish do penguins catch at night? Star fish.",
     "Which vegetable has the best kung fu? Broc-lee.",
     "Can a frog jump higher than a house? Of course, a house can't jump.",
-    "I was going to try an all almond diet, but that's just nuts.,"
+    "I was going to try an all almond diet, but that's just nuts."
 ];
 
 function newJoke() {
