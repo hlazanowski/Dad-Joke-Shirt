@@ -12,7 +12,7 @@ const jokes = [
     "Why do crabs never volunteer? Because they're shell-fish.",
     "I had a quiet game of tennis today. There was no racket.",
     "What's a shark's favorite saying? Man overboard!",
-    "What did one slice of bread say to the other before the race? You're toast!"
+    "What did one slice of bread say to the other before the race? You're toast!",
     "I poured some water over a duck's back yesterday. I don't think he cared.",
     "Why do melons have weddings? They cantelope.",
     "What did the bison say to his son when he left the ranch? Bi-son.",
